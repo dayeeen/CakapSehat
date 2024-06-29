@@ -15,3 +15,18 @@ Here is a list of the members involved in this project, including:
 |        Darryl Naufal Ardiaz        | Researcher/ML Engineer/Writer | [daidit](https://github.com/daidit) |
 |        Dian Saputra                | Designer/Front-end/Writer | [dayeeen](https://github.com/dayeeen) |
 
+<br>
+
+## Screenshots & Demo App : <br>
+Demo : https://cakap-sehat-landing-page.vercel.app<br>
+<br>
+<img src="https://github.com/dayeeen/CakapSehat/assets/95345862/ccc93c14-0e0f-43d7-b4da-7307a4bef1ea" width="500" style="padding: 20px;">
+<img src="https://github.com/dayeeen/CakapSehat/assets/95345862/174cfc55-f84b-431d-b40a-8ff94ee6d8b3" width="500" style="padding: 20px;">
+<img src="https://github.com/dayeeen/CakapSehat/assets/95345862/78630342-2ec6-4db0-a374-3ec3601d7b2f" width="500" style="padding: 20px;">
+<img src="https://github.com/dayeeen/CakapSehat/assets/95345862/6c1cb6eb-3535-4ae9-bf1e-683e421be52e" width="500" style="padding: 20px;">
+<br>
+<br>
+
+## Demo Video : <br>
+
+
