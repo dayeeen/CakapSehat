@@ -11,7 +11,7 @@ Here is a list of the members involved in this project, including:
 |            Name           | Role | Github's Profile |
 | :-------------------------: | :--------: | :--------: |
 |        Alfan Fadhil Baihaqi        | Researcher/ML Engineer | [byhq](https://github.com/byhq) |
-|        Bintang Nur Firdaus         | ML Engineer/Back-End | [akaza22](https://github.com/akaza22) |
+|        Bintang Nurfirdaus Suwardi        | ML Engineer/Back-End | [akaza22](https://github.com/akaza22) |
 |        Darryl Naufal Ardiaz        | Researcher/ML Engineer/Writer | [daidit](https://github.com/daidit) |
 |        Dian Saputra                | Designer/Front-end/Writer | [dayeeen](https://github.com/dayeeen) |
 
