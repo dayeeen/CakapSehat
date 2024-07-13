@@ -18,13 +18,12 @@ Here is a list of the members involved in this project, including:
 <br>
 
 ## Screenshots & Demo App : <br>
+Youtube Video: https://youtu.be/hfaTSMXGytA
 <br>
 
 ![1(2)](https://github.com/user-attachments/assets/96723f61-9b6d-46d0-8fcd-52deb6471d8a)
 
 ![2(2)](https://github.com/user-attachments/assets/00a67167-cd70-4f94-b99e-4cf560432c83)
 <br>
-
-https://github.com/user-attachments/assets/4cee21a5-ecbe-4761-8443-b24d6f869528
 
 
