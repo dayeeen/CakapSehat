@@ -18,15 +18,13 @@ Here is a list of the members involved in this project, including:
 <br>
 
 ## Screenshots & Demo App : <br>
-Demo : https://cakap-sehat-landing-page.vercel.app<br>
-<br>
-<img src="https://github.com/dayeeen/CakapSehat/assets/95345862/ccc93c14-0e0f-43d7-b4da-7307a4bef1ea" width="500" style="padding: 20px;">
-<img src="https://github.com/dayeeen/CakapSehat/assets/95345862/174cfc55-f84b-431d-b40a-8ff94ee6d8b3" width="500" style="padding: 20px;">
-<img src="https://github.com/dayeeen/CakapSehat/assets/95345862/78630342-2ec6-4db0-a374-3ec3601d7b2f" width="500" style="padding: 20px;">
-<img src="https://github.com/dayeeen/CakapSehat/assets/95345862/6c1cb6eb-3535-4ae9-bf1e-683e421be52e" width="500" style="padding: 20px;">
-<br>
 <br>
 
-## Demo Video : <br>
-Demo : https://
+![1(2)](https://github.com/user-attachments/assets/96723f61-9b6d-46d0-8fcd-52deb6471d8a)
+
+![2(2)](https://github.com/user-attachments/assets/00a67167-cd70-4f94-b99e-4cf560432c83)
+<br>
+
+https://github.com/user-attachments/assets/4cee21a5-ecbe-4761-8443-b24d6f869528
+
 
